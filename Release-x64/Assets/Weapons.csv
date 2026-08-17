@@ -1,0 +1,4 @@
+NAME,TYPE,DMG,RANGE,ICON_PATH,WIDTH,HEIGHT,OFFSET_X,FRAMES,LIGHT_PATH,HEAVY_PATH,L_DUR,H_DUR,L_HIT,H_HIT
+Fists,0,50.0,10.0,Assets/Sprites/Weapons/Weapon_Fist.png,80.0,120.0,10.0,4,Assets/Sprites/Player/patient_fist_light.png,Assets/Sprites/Player/patient_fist_heavy.png,0.4,0.8,0.25,0.5
+Umbrella,0,70.0,40.0,Assets/Sprites/Weapons/Weapon_Umbrella.png,100.0,125.0,25.0,4,Assets/Sprites/Player/patient_umbrella_light.png,Assets/Sprites/Player/patient_umbrella_heavy.png,0.6,1.2,0.3,0.6
+WaterGun,1,25.0,0.0,Assets/Sprites/Weapons/Weapon_WaterGun.png,80.0,125.0,25.0,4,Assets/Sprites/Player/patient_gun_shoot.png,Assets/Sprites/Player/patient_gun_shoot.png,0.4,0.4,0.2,0.2

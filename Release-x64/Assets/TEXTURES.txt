@@ -1,0 +1,26 @@
+TEXTURE_NAME>WIDTH>HEIGHT MAKE SURE TO PUT '<' AFTER EVERY LINE<
+TRAINBG.png>499>197<
+border.png>1600>900<
+MRTBG.png>1001>146<
+dirtBG.png>192>114<
+platform.png>190>63<
+platformlong.png>500>63<
+medkit.png>50>50<
+stim.png>50>50<
+Sprites/Enemies/kid.png>70>80<
+Sprites/Enemies/officer.png>70>160<
+Sprites/Enemies/elderly.png>70>110<
+level1.png>500>240<
+entrance.png>500>240<
+key.png>40>40<
+dollar.png>40>40<
+intro1.png>800>450<
+intro2.png>800>450<
+intro3.png>800>450<
+intro4.png>800>450<
+background.png>726>594<
+bg.png>1000>1000<
+door.png>90>170<
+ending.png>800>450<
+CCTV.png>70>70<
+escal.png>67>65<
