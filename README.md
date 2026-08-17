@@ -25,7 +25,7 @@ Controls are displayed in the top-right of the screen after Digipen and the game
 
 - **Language:** C++
 - **Framework:** DigiPen's Alpha Engine
-- **Framework:** FMOD
+- **Audio:** FMOD
 
 ## Level Data
 
